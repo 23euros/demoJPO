@@ -1,0 +1,8 @@
+set_var EASYRSA_REQ_COUNTRY    "FR"
+set_var EASYRSA_REQ_PROVINCE   "France"
+set_var EASYRSA_REQ_CITY       "France"
+set_var EASYRSA_REQ_ORG        "ENAC"
+set_var EASYRSA_REQ_EMAIL      "demo.jpo@enac.fr"
+set_var EASYRSA_REQ_OU         "ReSCo"
+set_var EASYRSA_ALGO           "rsa"
+set_var EASYRSA_DIGEST         "sha512"

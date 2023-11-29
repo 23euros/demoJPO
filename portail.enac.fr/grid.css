@@ -1,0 +1,126 @@
+/** grid system by hinnendahl.com */
+@media screen and (min-width: 100px) {
+    .xs-1 { width: 6.3230994152047%; }
+    .xs-2 { width: 14.83918128655%; }
+    .xs-3 { width: 23.355263157895%; }
+    .xs-4 { width: 31.87134502924%; }
+    .xs-5 { width: 40.387426900585%; }
+    .xs-6 { width: 48.90350877193%; }
+    .xs-7 { width: 57.419590643275%; }
+    .xs-8 { width: 65.93567251462%; }
+    .xs-9 { width: 74.451754385965%; }
+    .xs-10 { width: 82.96783625731%; }
+    .xs-11 { width: 91.483918128655%; }
+    .xs-12 { width: 100%; }
+    .xs-1, .xs-2, .xs-3, .xs-4, .xs-5, .xs-6, .xs-7, .xs-8, .xs-9, .xs-10, .xs-11, .xs-12 { float: left; margin-right: 2.1929824561404%; }
+    .xs-last { margin-right: 0; }
+    .xs-flt-rgt { float: right; margin-right: 0; }
+    .xs-txt-rgt { text-align: right; }
+    .xs-bottom { margin-bottom: 1em; }
+    .xs-bottom-no { margin-bottom: 0; }
+    .xs-top { margin-top: 1em; }
+    .xs-hide { display: none; }
+    .xs-block { display: block; }
+    .xs-inline { display: inline; }
+    .xs-inlineBlock { display: inline-block; }
+}
+@media screen and (min-width: 480px) {
+    .s-1 { width: 6.3230994152047%; }
+    .s-2 { width: 14.83918128655%; }
+    .s-3 { width: 23.355263157895%; }
+    .s-4 { width: 31.87134502924%; }
+    .s-5 { width: 40.387426900585%; }
+    .s-6 { width: 48.90350877193%; }
+    .s-7 { width: 57.419590643275%; }
+    .s-8 { width: 65.93567251462%; }
+    .s-9 { width: 74.451754385965%; }
+    .s-10 { width: 82.96783625731%; }
+    .s-11 { width: 91.483918128655%; }
+    .s-12 { width: 100%; }
+    .s-1, .s-2, .s-3, .s-4, .s-5, .s-6, .s-7, .s-8, .s-9, .s-10, .s-11, .s-12 { float: left; margin-right: 2.1929824561404%; }
+    .s-last { margin-right: 0; }
+    .s-flt-rgt { float: right; margin-right: 0; }
+    .s-txt-rgt { text-align: right; }
+    .s-bottom { margin-bottom: 1em; }
+    .s-bottom-no { margin-bottom: 0; }
+    .s-top { margin-top: 1em; }
+    .s-hide { display: none; }
+    .s-block { display: block; }
+    .s-inline { display: inline; }
+    .s-inlineBlock { display: inline-block; }
+}
+@media screen and (min-width: 768px) {
+    .m-1 { width: 6.3230994152047%; }
+    .m-2 { width: 14.83918128655%; }
+    .m-3 { width: 23.355263157895%; }
+    .m-4 { width: 31.87134502924%; }
+    .m-5 { width: 40.387426900585%; }
+    .m-6 { width: 48.90350877193%; }
+    .m-7 { width: 57.419590643275%; }
+    .m-8 { width: 65.93567251462%; }
+    .m-9 { width: 74.451754385965%; }
+    .m-10 { width: 82.96783625731%; }
+    .m-11 { width: 91.483918128655%; }
+    .m-12 { width: 100%; }
+    .m-1, .m-2, .m-3, .m-4, .m-5, .m-6, .m-7, .m-8, .m-9, .m-10, .m-11, .m-12 { float: left; margin-right: 2.1929824561404%; }
+    .m-last { margin-right: 0; }
+    .m-flt-rgt { float: right; margin-right: 0; }
+    .m-txt-rgt { text-align: right; }
+    .m-bottom { margin-bottom: 1em; }
+    .m-bottom-no { margin-bottom: 0; }
+    .m-top { margin-top: 1em; }
+    .m-hide { display: none; }
+    .m-block { display: block; }
+    .m-inline { display: inline; }
+    .m-inlineBlock { display: inline-block; }
+}
+@media screen and (min-width: 920px) {
+    .l-1 { width: 6.3230994152047%; }
+    .l-2 { width: 14.83918128655%; }
+    .l-3 { width: 23.355263157895%; }
+    .l-4 { width: 31.87134502924%; }
+    .l-5 { width: 40.387426900585%; }
+    .l-6 { width: 48.90350877193%; }
+    .l-7 { width: 57.419590643275%; }
+    .l-8 { width: 65.93567251462%; }
+    .l-9 { width: 74.451754385965%; }
+    .l-10 { width: 82.96783625731%; }
+    .l-11 { width: 91.483918128655%; }
+    .l-12 { width: 100%; }
+    .l-1, .l-2, .l-3, .l-4, .l-5, .l-6, .l-7, .l-8, .l-9, .l-10, .l-11, .l-12 { float: left; margin-right: 2.1929824561404%; }
+    .l-last { margin-right: 0; }
+    .l-flt-rgt { float: right; margin-right: 0; }
+    .l-txt-rgt { text-align: right; }
+    .l-bottom { margin-bottom: 1em; }
+    .l-bottom-no { margin-bottom: 0; }
+    .l-top { margin-top: 1em; }
+    .l-hide { display: none; }
+    .l-block { display: block; }
+    .l-inline { display: inline; }
+    .l-inlineBlock { display: inline-block; }
+}
+@media screen and (min-width: 1140px) {
+    .xl-1 { width: 6.3230994152047%; }
+    .xl-2 { width: 14.83918128655%; }
+    .xl-3 { width: 23.355263157895%; }
+    .xl-4 { width: 31.87134502924%; }
+    .xl-5 { width: 40.387426900585%; }
+    .xl-6 { width: 48.90350877193%; }
+    .xl-7 { width: 57.419590643275%; }
+    .xl-8 { width: 65.93567251462%; }
+    .xl-9 { width: 74.451754385965%; }
+    .xl-10 { width: 82.96783625731%; }
+    .xl-11 { width: 91.483918128655%; }
+    .xl-12 { width: 100%; }
+    .xl-1, .xl-2, .xl-3, .xl-4, .xl-5, .xl-6, .xl-7, .xl-8, .xl-9, .xl-10, .xl-11, .xl-12 { float: left; margin-right: 2.1929824561404%; }
+    .xl-last { margin-right: 0; }
+    .xl-flt-rgt { float: right; margin-right: 0; }
+    .xl-txt-rgt { text-align: right; }
+    .xl-bottom { margin-bottom: 1em; }
+    .xl-bottom-no { margin-bottom: 0; }
+    .xl-top { margin-top: 1em; }
+    .xl-hide { display: none; }
+    .xl-block { display: block; }
+    .xl-inline { display: inline; }
+    .xl-inlineBlock { display: inline-block; }
+}

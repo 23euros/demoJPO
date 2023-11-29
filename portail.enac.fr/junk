@@ -1,0 +1,16 @@
+    <script type="text/javascript" language="javascript" src="./resources/jquery-1.5.2.js"></script>
+    <script type="text/javascript" language="javascript" src="./resources/jquery.ui.core.js"></script>
+    <script type="text/javascript" language="javascript" src="./resources/jquery.ui.datepicker.js"></script>
+    <script type="text/javascript" language="javascript" src="./resources/jquery.sprintf.js"></script>
+    <script src="./resources/modernizr-2.6.2.js"></script>
+    <script src="./resources/responsiveslides.js"></script>
+    <script src="./resources/main.js"></script>
+    
+                    <div id="langContainer">
+                    <a id="lang_link[de]" href="#" style="display:none"><img src="./resources/_images/flags/de.png?1497443700" title="Deutsch"></a>
+                    <a id="lang_link[en]" href="#" style="display:none"><img src="./resources/_images/flags/en.png?1497443700" title="English"></a>
+                    <a id="lang_link[fr]" href="#" style="display:none"><img src="./resources/_images/flags/fr.png?1497443700" title="Fran&ccedil;ais"></a>
+                </div>
+                
+
+     <h1>Hello, <?php echo $_SESSION['uname']; ?></h1>
