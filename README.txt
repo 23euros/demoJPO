@@ -1,5 +1,32 @@
+Quickstart
+  Physical:
+    Plug Hub
+    Plug 3 RJ45 in 1x line
+    Plug pecari (client)
+    Plug fennec (server)
+    Plug tigre (attacker)
+    
+  Server (fennec, pwd demojpo):
+    run demo.sh (don't forget to press q to finish the script)
+    goto localhost/phpmyadmin on firefox
+    sql database admin id = php pwd = php OR edit portail.enac.fr/db_conn.php with new id and password
+
+  Client
+    run demo.sh (don't forget to press q to finish the script)
+    open firefox
+    goto portail.enac.fr (for HTTP)
+    goto portail.enac.fr in incognito mode (for https, does not save cookies)
+    open preferences, search certificats and modify the authorizations for ENAC CA at will
+
+  Attacker
+    run demo.sh (don't forget to press q to finish the script)
+    sudo wireshark
+    catch packets on enp0s25
+
+
+Initial setup
+
 install LAMP
-sql database admin id = php pwd = php OR edit portail.enac.fr/db_conn.php with new id and password
 
 sudo cp -r mysql.conf.d /etc/mysql/
 sudo cp -r mysql /var/lib/
