@@ -21,6 +21,7 @@ Quickstart
   Attacker
     run demo.sh (don't forget to press q to finish the script)
     sudo wireshark
+    import server.key in wireshark (edit->perferences->RSA keys)
     catch packets on enp0s25
 
 
@@ -47,5 +48,5 @@ add demo_jpo/easy-rsa/ca.crt as trusted certification authority in browser
 
 
 give adversary 192.168.0.3/24
-import server.key in wireshark
+import server.key in wireshark (edit->perferences->RSA keys)
 listen
